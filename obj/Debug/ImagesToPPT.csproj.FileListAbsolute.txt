@@ -1,0 +1,10 @@
+D:\6_PersonalProjects\ImagesToPPT\bin\Debug\ImagesToPPT.exe.config
+D:\6_PersonalProjects\ImagesToPPT\bin\Debug\ImagesToPPT.exe
+D:\6_PersonalProjects\ImagesToPPT\bin\Debug\ImagesToPPT.pdb
+D:\6_PersonalProjects\ImagesToPPT\obj\Debug\ImagesToPPT.csprojAssemblyReference.cache
+D:\6_PersonalProjects\ImagesToPPT\obj\Debug\ImagesToPPT.Form1.resources
+D:\6_PersonalProjects\ImagesToPPT\obj\Debug\ImagesToPPT.Properties.Resources.resources
+D:\6_PersonalProjects\ImagesToPPT\obj\Debug\ImagesToPPT.csproj.GenerateResource.cache
+D:\6_PersonalProjects\ImagesToPPT\obj\Debug\ImagesToPPT.csproj.CoreCompileInputs.cache
+D:\6_PersonalProjects\ImagesToPPT\obj\Debug\ImagesToPPT.exe
+D:\6_PersonalProjects\ImagesToPPT\obj\Debug\ImagesToPPT.pdb
